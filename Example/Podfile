@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'BobcnTestLib_Example' do
+  pod 'BobcnTestLib', :path => '../'
+
+  target 'BobcnTestLib_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
