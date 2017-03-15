@@ -1,0 +1,22 @@
+{
+  "name": "BobcnTestLib",
+  "version": "0.1.0",
+  "summary": "A short description of BobcnTestLib.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/bobcn/BobcnTestLib",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "bobcn": "xcode_hu@163.com"
+  },
+  "source": {
+    "git": "https://github.com/bobcn/BobcnTestLib.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "BobcnTestLib/Classes/**/*"
+}

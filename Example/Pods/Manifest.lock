@@ -1,0 +1,16 @@
+PODS:
+  - BobcnTestLib (0.1.0)
+
+DEPENDENCIES:
+  - BobcnTestLib (from `../`)
+
+EXTERNAL SOURCES:
+  BobcnTestLib:
+    :path: ../
+
+SPEC CHECKSUMS:
+  BobcnTestLib: b1b1091a375f307c26af531c8afc77dab64bf253
+
+PODFILE CHECKSUM: 2d0d3831f49945e5d04d0d36884cdec5471cf889
+
+COCOAPODS: 1.2.1.beta.1

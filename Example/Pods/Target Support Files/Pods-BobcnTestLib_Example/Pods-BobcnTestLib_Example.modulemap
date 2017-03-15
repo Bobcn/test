@@ -1,0 +1,6 @@
+framework module Pods_BobcnTestLib_Example {
+  umbrella header "Pods-BobcnTestLib_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

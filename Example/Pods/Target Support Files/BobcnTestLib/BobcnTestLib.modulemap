@@ -1,0 +1,6 @@
+framework module BobcnTestLib {
+  umbrella header "BobcnTestLib-umbrella.h"
+
+  export *
+  module * { export * }
+}
